@@ -1,0 +1,2 @@
+The file2 text file can also contain as many or a greater number of lines of text.
+This tutorial is the second tutorial session.

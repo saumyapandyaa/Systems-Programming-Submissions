@@ -1,0 +1,5 @@
+The file line of text.
+The second line of text in file1 text file1 text file
+The data file has some text
+The expression 2^x is an exponential function.
+There are five lines of text in file1 text file
